@@ -1,0 +1,26 @@
+{
+  "name": "power.js",
+  "version": "0.0.1",
+  "description": "JavaScript Framework which depends on Convention over Configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaseems/power.js.git"
+  },
+  "keywords": [
+    "framework",
+    "power",
+    "controller",
+    "mvc",
+    "redux"
+  ],
+  "author": "Vaseem Abbas Mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaseems/power.js/issues"
+  },
+  "homepage": "https://github.com/vaseems/power.js#readme"
+}
